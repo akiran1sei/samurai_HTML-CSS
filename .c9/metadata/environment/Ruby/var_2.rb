@@ -1,0 +1,1 @@
+{"filter":false,"title":"var_2.rb","tooltip":"/Ruby/var_2.rb","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1596495841400,"hash":"c4b262f72058b6f463b1a0902377c8edb9bcd9f0"}
